@@ -35,7 +35,7 @@ A base prática destes exercícios foi construída acompanhando a playlist de Ja
 
 - **Linguagem:** Java (JDK 14)
 - **IDE:** IntelliJ IDEA
-- **Controlo de Versão:** Git & GitHub
+- **Controle de Versão:** Git & GitHub
 
 ---
 
