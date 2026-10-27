@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         User userA = new User("Vitor", "Assalin");
         User userB = new User("Tiago", "Aguiar");
-        
+
         System.out.println(userA.toString());
         System.out.println(userB.toString());
     }
