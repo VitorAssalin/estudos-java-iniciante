@@ -17,7 +17,7 @@ public class Main {
         System.out.println(userB);
         System.out.println(userB.hashCode());
         System.out.println(userA.equals(userB));
-        
+
 
 
         //Entrega hashcodes diferentes pois compara os as propriedades dentro das variais
